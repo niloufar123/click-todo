@@ -1,0 +1,1 @@
+exercise: do the python exercises ---> Priority:Medium
